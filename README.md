@@ -27,3 +27,5 @@ After training and fine-tuning the models, CNN emerged as the **best-performing 
 This project demonstrates the power of **machine learning in cybersecurity**, showcasing how predictive modeling can be leveraged to detect and mitigate cyber threats effectively. The combination of **EDA, feature engineering, hyperparameter tuning, and deep learning techniques** significantly improved the model’s performance, making it an efficient cyber attack prediction system.  
 
 This solution can be further extended by integrating **real-time monitoring**, **anomaly detection systems**, and **adaptive learning models** to strengthen cybersecurity defenses in dynamic environments.
+![image](https://github.com/user-attachments/assets/47e0d042-751f-4abb-a244-5577d02e76a4)
+
